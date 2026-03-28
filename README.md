@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Project Overview
+## 📌 Project Overview 
 
 A **console-based Car Rental System** built using Java and Object-Oriented Programming (OOP) principles.
 This application allows users to rent and return cars while managing customer data and rental operations efficiently.
